@@ -1,5 +1,4 @@
-# day1
-
+# Thursday
 A new Flutter project.
 
 ## Getting Started
